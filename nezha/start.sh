@@ -1,7 +1,5 @@
 #!/bin/sh
 
-export TMPDIR=/home/[username[]/nezha-agent/tmp
-
-/home/[username[]/nezha-agent/agent -s [you host]:grcppoet -p [key] -d
+/home/runner/MessySteepData/nezha-agent/agent -s tzz.shiyue.eu.org:5555 -p bPT1htd5JCl3ys3Owv -d  
 
 EOF
